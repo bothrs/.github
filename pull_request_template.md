@@ -1,17 +1,12 @@
-<!-- Add a list of features/ bugs/ ... that this PR handles -->
-
 ## What
+
+<!-- Add a list of features/ bugs/ ... that this PR handles -->
 
 -
 
-- [ ] Added tracking
-- [ ] Documented tracking
-
-- [ ] tracking not relevant
+## How
 
 <!-- List all the context the reviewer needs -->
-
-## How
 
 -
 
@@ -19,6 +14,16 @@
 
 [Ticket](ticketurl)
 
-<!-- Add a screenshot/ screencapture/ loom -->
+## Tracking
+
+<!-- Indicate what tracking has been done -->
+
+- [ ] Added tracking
+- [ ] Documented tracking
+
+<!-- uncomment text below and remove checks above when needed -->
+<!-- tracking was not relevant for this bug/feature -->
 
 ## Demo
+
+<!-- Add a screenshot/ screen-capture/ loom -->
