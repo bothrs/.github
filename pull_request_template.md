@@ -14,15 +14,15 @@
 
 [Ticket](ticketurl)
 
-## Tracking
+## Analytics
 
-<!-- Indicate what tracking has been done -->
+<!-- Indicate what analytics have been added -->
 
-- [ ] Added tracking
-- [ ] Documented tracking
+- [ ] Added analytics
+- [ ] Documented analytics
 
-<!-- uncomment text below and remove checks above when needed -->
-<!-- tracking was not relevant for this bug/feature -->
+<!-- Uncomment text below and remove checks above when needed -->
+<!-- Analytics was not relevant for this PR -->
 
 ## Demo
 
