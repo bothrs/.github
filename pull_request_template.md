@@ -2,11 +2,8 @@
 <!-- Add a list of features/ bugs/ ... that this PR handles -->
 -
 
-## How
-<!-- List all the context the reviewer needs -->
--
-
 ## Ticket
+<!-- You can connect Jira so you can just type "TS-123" and it will automatically get linked. -->
 [Ticket](ticketurl)
 
 ## Analytics
