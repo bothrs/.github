@@ -4,9 +4,9 @@
 
 # General info
 
-## Linked Projects
+## Linked Repositories
 
-[Frontend](add a link to the frontend github repo)
+[Frontend](Add a link to the frontend github repo)
 
 [Backend](Add link to the backend github repo)
 
@@ -18,7 +18,7 @@ _List the people who worked on this project_
 
 ## General info
 
-| Item                  | Info/ links                                        | Remark |
+| Item                  | Info / links                                       | Remark |
 | --------------------- | -------------------------------------------------- | ------ |
 | Framework             | _insert basic stack info, eg: "nest.js + graphql"_ |        |
 | Notion Track Hub link | _insert link to notion_                            |        |
@@ -27,21 +27,21 @@ _List the people who worked on this project_
 | Airtable Link         | _link to translations_                             |        |
 | Doppler               | _link to doppler_                                  |        |
 | Authentication        | _link to auth provider, eg: auth0, firebase, ..._  |        |
-| figma                 | _link to Figma file_                               |        |
+| Figma                 | _link to Figma file_                               |        |
 
 ## Used tools and accounts
 
-_list all tools, should already be in notion or Lastpass, so a link to this page will be enough_
+_List all tools, should already be in Notion or Lastpass, so a link to this page will be enough_
 
 # Getting started
 
-## Secrets/ doppler
+## Secrets / Doppler
 
-_describe how to manage the project secrets_
+_Describe how to manage the project secrets_
 
 ## How to run locally
 
-_Describe how to get the project up and running on you local machine_
+_Describe how to get the project up and running on your local machine_
 
 ## Publishing
 
