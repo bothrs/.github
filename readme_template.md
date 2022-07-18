@@ -2,7 +2,9 @@
 
 - _Insert links to production (api, site, expo qr code, ...)_
 
-# Linked Projects
+# General info
+
+## Linked Projects
 
 [Frontend](add a link to the frontend github repo)
 
@@ -10,11 +12,11 @@
 
 [CMS](Add link to the cms github repo)
 
-# Technical product owners
+## Technical product owners
 
 _List the people who worked on this project_
 
-# General info
+## General info
 
 | Item                  | Info/ links                                        | Remark |
 | --------------------- | -------------------------------------------------- | ------ |
@@ -25,3 +27,22 @@ _List the people who worked on this project_
 | Airtable Link         | _link to translations_                             |        |
 | Doppler               | _link to doppler_                                  |        |
 | Authentication        | _link to auth provider, eg: auth0, firebase, ..._  |        |
+| figma                 | _link to Figma file_                               |        |
+
+## Used tools and accounts
+
+_list all tools, should already be in notion or Lastpass, so a link to this page will be enough_
+
+# Getting started
+
+## Secrets/ doppler
+
+_describe how to manage the project secrets_
+
+## How to run locally
+
+_Describe how to get the project up and running on you local machine_
+
+## Publishing
+
+_Describe how to publish the project to the different environments_
