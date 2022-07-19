@@ -1,6 +1,6 @@
 # Link to Production
 
-- _Insert links to production (api, site, expo qr code, ...)_
+_Insert links to production (api, site, expo qr code, ...)_
 
 # General info
 
@@ -46,6 +46,10 @@ _Describe how to get the project up and running on your local machine_
 ## Publishing
 
 _Describe how to publish the project to the different environments_
+
+## Testing
+
+_describe how to run the tests and what parts of the code are / should be tested_
 
 # Code Documentation
 
