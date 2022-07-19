@@ -47,6 +47,10 @@ _Describe how to get the project up and running on your local machine_
 
 _Describe how to publish the project to the different environments_
 
+## Testing
+
+_describe how to run the tests and what parts of the code are / should be tested_
+
 # Code Documentation
 
 ## Non standard flows
