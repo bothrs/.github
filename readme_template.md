@@ -60,8 +60,8 @@ _If needed, give some extra info about the certain flows that need some explanat
 
 _Examples:_
 
-_https://github.com/bothrs/my-cancer-companion-backend#special-flows_
-_https://github.com/bothrs/la-belle-maison-backend#how-the-login-works_
+- _https://github.com/bothrs/my-cancer-companion-backend#special-flows_
+- _https://github.com/bothrs/la-belle-maison-backend#how-the-login-works_
 
 ## Cron jobs
 
@@ -69,5 +69,5 @@ _List the cron jobs that are used_
 
 _Examples:_
 
-_https://github.com/bothrs/my-cancer-companion-backend#cron-jobs_
-_https://github.com/bothrs/la-belle-maison-backend#cron-jobs_
+- _https://github.com/bothrs/my-cancer-companion-backend#cron-jobs_
+- _https://github.com/bothrs/la-belle-maison-backend#cron-jobs_
