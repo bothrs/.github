@@ -44,6 +44,15 @@ _Describe how to get the project up and running on your local machine_
 
 _Describe how to publish the project to the different environments_
 
+EAS checklist if built with Expo:
+
+- [ ] Pushes to main deploy to the QA testing environment (through `eas update`)
+- [ ] Pushes to main with a release tag, deploy the app to production
+- [ ] When submitting a new store build, your version number is updated (automatically, through e.g. [release-please](https://github.com/googleapis/release-please))
+- [ ] If present, any "extra" fields defined in the `app.json` / `app.config.ts` are only accessed through `Constants?.expoConfig`
+- [ ] If present, environment variables are also defined in Expo UI and not just in Doppler
+- [ ] There is a developer menu with current environment info (for support / bug reports)
+
 ## Testing
 
 _Describe how to run the tests and what parts of the code are / should be tested_
