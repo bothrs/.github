@@ -1,19 +1,20 @@
-## What
-<!-- Add a list of features/ bugs/ ... that this PR handles -->
--
+## Summary
 
-## Ticket
-<!-- You can connect Jira so you can just type "TS-123" and it will automatically get linked. -->
-[Ticket](ticketurl)
+Brief description of changes
 
-## Analytics
-<!-- Indicate what analytics have been added -->
+## Changes
 
-- [ ] Added analytics
-- [ ] Documented analytics
+- List of specific changes made
 
-<!-- Uncomment text below and remove checks above when needed -->
-<!-- Analytics was not relevant for this PR -->
+## Testing (only for bug fixes)
 
-## Demo
-<!-- Add a screenshot/ screen-capture/ loom -->
+How to test/reproduce the fix
+
+## Screenshots
+
+## Checklist
+
+- [ ] Documented what's new
+- [ ] Added in-code documentation (wherever needed)
+- [ ] Wrote tests for new components/features
+- [ ] Added analytics (wherever needed)

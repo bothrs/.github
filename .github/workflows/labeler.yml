@@ -1,0 +1,35 @@
+name: PR Labeler
+
+on:
+  workflow_call:
+    secrets:
+      NIMBLE_GH_APP_ID:
+        required: true
+      NIMBLE_GH_APP_PRIVATE_KEY:
+        required: true
+
+jobs:
+  labeler:
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.NIMBLE_GH_APP_ID }}
+          private-key: ${{ secrets.NIMBLE_GH_APP_PRIVATE_KEY }}
+
+      - name: Checkout shared config
+        uses: actions/checkout@v4
+        with:
+          repository: bothrs/.github
+          token: ${{ steps.app-token.outputs.token }}
+          sparse-checkout: .github/labeler.yml
+          path: shared-config
+
+      - uses: actions/labeler@v5
+        with:
+          repo-token: ${{ steps.app-token.outputs.token }}
+          configuration-path: shared-config/.github/labeler.yml

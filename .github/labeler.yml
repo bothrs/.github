@@ -1,0 +1,14 @@
+feature:
+  - head-branch: ["^feat"]
+chore:
+  - head-branch: ["^chore"]
+bug:
+  - head-branch: ["^fix"]
+hotfix:
+  - all:
+      - head-branch: ["^fix"]
+      - base-branch: "main"
+ci:
+  - head-branch: ["^ci"]
+documentation:
+  - head-branch: ["^docs"]
